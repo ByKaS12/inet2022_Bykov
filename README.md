@@ -29,6 +29,14 @@
 ### Работа над проектом ведется в команде.
 1. Репозиторий проекта доступен по ссылке: [path-watcher](https://github.com/ByKaS12/path-watcher)
 2. Веб-страница с описанием проекта доступна по ссылке: [Landing page](https://github.com/ByKaS12/inet2022_Bykov/)
+## Лабораторная 3
+
+Работа с Сisco Packet Tracer.
+
+Материалы о выполнении лабораторной работы:
+* Проект: [Project](TODO// file.pka)
+* Информация о конфигурации устройств: [Device Configuration Information](TODO// file.pdf)
+* Сценарий для настройки устройств: [Command script in cisco](TODO// file.txt)
 
 ## ✅ Экзаменационные билет №26
 
