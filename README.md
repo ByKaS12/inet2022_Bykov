@@ -28,7 +28,7 @@
 
 ### Работа над проектом ведется в команде.
 1. Репозиторий проекта доступен по ссылке: [path-watcher](https://github.com/ByKaS12/path-watcher)
-2. Веб-страница с описанием проекта доступна по ссылке: [Landing page](https://github.com/ByKaS12/inet2022_Bykov/)
+2. Веб-страница с описанием проекта доступна по ссылке: [Landing page](https://trickster22.github.io/)
 ## Лабораторная 3
 
 Работа с Сisco Packet Tracer.
