@@ -19,13 +19,13 @@
 ### Используемые средства разработки ПО
 
 * Backend:
-   ** Язык программирования С#;
-   ** Шаблон проектирования архитектуры приложения MVVM;
-   ** Технология доступа к данным Entity Framework Core;
+   + Язык программирования С#;
+   + Шаблон проектирования архитектуры приложения MVVM;
+   + Технология доступа к данным Entity Framework Core;
 * Frontend:
-   ** Cистема для построения клиентских приложений Windows с визуальными возможностями взаимодействия с пользователем WPF
+   + Cистема для построения клиентских приложений Windows с визуальными возможностями взаимодействия с пользователем WPF
 * Совместная разработка ПО и контроль изменений:
-   ** Распределённая система управления версиями Git;
+   + Распределённая система управления версиями Git;
 
 ### Работа над проектом ведется в команде.
 1. Репозиторий проекта доступен по ссылке: [path-watcher](https://github.com/ByKaS12/path-watcher)
@@ -35,11 +35,11 @@
 Работа с Сisco Packet Tracer.
 
 Материалы о выполнении лабораторной работы:
-* Проект: [Project](TODO// file.pka)
-* Информация о конфигурации устройств: [Device Configuration Information](TODO// file.pdf)
+* Проект: [Project](https://github.com/ByKaS12/inet2022_Bykov/blob/main/Сценарий%20CPT.pka)
+* Информация о конфигурации устройств: [Device Configuration Information](https://github.com/ByKaS12/inet2022_Bykov/blob/main/Отчет.pdf)
 
 ## ✅ Экзаменационные билет №26
 
 Ответ на экзаменационный билет доступен по ссылке:
-[Билет №26](https://github.com/stankin/inet-2022/wiki/exam26)
-Индивидуальный реферат доступен по ссылке: [Compare commit](https://github.com/stankin/inet-2022/wiki/exam26/_compare/e7b4d24f4f04e535ca4bb0d3f8a6649fa778fea4...00d8e098dafa9a9e6ef6b2956030b754cb43bda4#)
+[Билет №26](https://github.com/stankin/inet-2022/wiki/exam26) <br>
+Индивидуальный реферат доступен по ссылке: [Compare commit](https://github.com/stankin/inet-2022/wiki/exam26/_compare/e7b4d24f4f04e535ca4bb0d3f8a6649fa778fea4...00d8e098dafa9a9e6ef6b2956030b754cb43bda4#) <br>
